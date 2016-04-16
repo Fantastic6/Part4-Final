@@ -9,7 +9,7 @@
 ## Tasks
 
 1. Update the CPU class with the Floating Point/Vector Operation instructions. 
-2. Implement a simple program to demostrate floating point add/subtract, vector add/substract, and floating point conversions. 
+2. Implement simple tests to demostrate floating point add/subtract, vector add/substract, and floating point conversions. 
 3. Documentation. 
 
 We have the same classes as before:
